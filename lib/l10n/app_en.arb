@@ -1,0 +1,18 @@
+{
+"appTitle": "Edutalk Student",
+  "lbl_review_question" : "review the question",
+  "lbl_submit" : "Submit",
+  "lbl_option" : "Select Option",
+  "lbl_pre" : "Previous",
+  "lbl_next" : "Next",
+  "lbl_exit" : "Exit",
+  "lbl_continue" : "Continue",
+  "lbl_watch_result" :"Watch Result",
+  "lbl_testinput" : "Entrance test",
+  "lbl_giaotiep" : "Communicate",
+  "lbl_toeic" : "TOEIC",
+  "lbl_ielts" : "IELTS",
+  "lblCamera" : "Camera",
+  "lblGallery" : "Gallery",
+  "lbl_timeout" : "Time out"
+}

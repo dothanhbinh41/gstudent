@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "383005973421",
+    "firebase_url": "https://edutalk-71810.firebaseio.com",
+    "project_id": "edutalk-71810",
+    "storage_bucket": "edutalk-71810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383005973421:android:d0a92c10e960aaa85bdf24",
+        "android_client_info": {
+          "package_name": "vn.edu.edutalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383005973421-ajcffr14ci61kdekvd0haujgs436t0t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.edutalk",
+            "certificate_hash": "8df45d7099becedf3a383e074abd1ef357f107ca"
+          }
+        },
+        {
+          "client_id": "383005973421-deqnjcbqv7dnrakojebar1an8cgfr7oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.edutalk",
+            "certificate_hash": "9504b1546dff10e41b2374fe09f50b4b718c0924"
+          }
+        },
+        {
+          "client_id": "383005973421-jv9e3hs0ghhm1utv5oa93peqglbkhsr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.edutalk",
+            "certificate_hash": "0531e603bb97c820f5ebe72dbf70eff159dc4092"
+          }
+        },
+        {
+          "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxt1NkMSdAgr59AHugL-2pKIUt-zsHy2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383005973421-13hu66ck8l4f1hj5phfa30pcjl8gu5fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.edutalk.teacher",
+                "app_store_id": "1527954018"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383005973421:android:74e545e33b65cd765bdf24",
+        "android_client_info": {
+          "package_name": "vn.edu.edutalk.coach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383005973421-e7djnt31g82phhjni3qr6tue8qu6ieqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.edutalk.coach",
+            "certificate_hash": "dee598c443ae7cf095bd540ce21d4dc353807e20"
+          }
+        },
+        {
+          "client_id": "383005973421-n8agnhvss3k6idhvjeb63ii4h06qqh7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.edutalk.coach",
+            "certificate_hash": "16cbe34aeedbaf0c27212f1460b3fb3eadc7ee4f"
+          }
+        },
+        {
+          "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxt1NkMSdAgr59AHugL-2pKIUt-zsHy2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383005973421-13hu66ck8l4f1hj5phfa30pcjl8gu5fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.edutalk.teacher",
+                "app_store_id": "1527954018"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383005973421:android:7948ae3e51c610555bdf24",
+        "android_client_info": {
+          "package_name": "vn.edu.edutalk.mentorlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxt1NkMSdAgr59AHugL-2pKIUt-zsHy2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383005973421-13hu66ck8l4f1hj5phfa30pcjl8gu5fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.edutalk.teacher",
+                "app_store_id": "1527954018"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383005973421:android:187d17a3312c95385bdf24",
+        "android_client_info": {
+          "package_name": "vn.edu.edutalk.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383005973421-i9u46epq28maqpt2sh65looqu75g8bdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.edu.edutalk.teacher",
+            "certificate_hash": "e60a46096da7802601a403fa1935cc47f980263a"
+          }
+        },
+        {
+          "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxt1NkMSdAgr59AHugL-2pKIUt-zsHy2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383005973421-khc5d5q86bb6ejnkf7ncsfhtf5ct6tdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383005973421-13hu66ck8l4f1hj5phfa30pcjl8gu5fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.edu.edutalk.teacher",
+                "app_store_id": "1527954018"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

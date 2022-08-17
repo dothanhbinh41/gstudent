@@ -1,0 +1,18 @@
+{
+  "appTitle": "Học viên Edutalk",
+  "lbl_review_question" : "Xem lại câu hỏi",
+  "lbl_submit" : "Nộp bài",
+  "lbl_pre" : "Trước",
+  "lbl_next" : "Tiếp theo",
+  "lbl_exit" : "Thoát",
+  "lbl_continue" : "Tiếp tục",
+  "lbl_option" : "Chọn bài",
+  "lbl_watch_result" :"Xem kết quả",
+  "lbl_testinput" :"Kiểm tra đầu vào",
+  "lbl_giaotiep" : "Giao tiếp",
+  "lbl_toeic" : "TOEIC",
+  "lbl_ielts" : "IELTS",
+  "lblCamera" : "Máy ảnh",
+  "lblGallery" : "Thư viện",
+  "lbl_timeout" : "Hết giờ"
+}
